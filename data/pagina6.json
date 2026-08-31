@@ -1,0 +1,63 @@
+{
+  "pagina": 6,
+  "categoria": "Vestidos",
+  "precio": "U$ 29.999",
+  "productos": [
+    {
+      "codigo": "C",
+      "referencia": "616981",
+      "descripcion": "Vestido ajustado. Rib poliéster algodón spandex.",
+      "color": "Negro",
+      "tallas": [
+        {
+          "talla": "S",
+          "codigo": "636380"
+        },
+        {
+          "talla": "M",
+          "codigo": "636381"
+        },
+        {
+          "talla": "L",
+          "codigo": "636382"
+        },
+        {
+          "talla": "XL",
+          "codigo": "636383"
+        },
+        {
+          "talla": "XXL",
+          "codigo": "636384"
+        }
+      ]
+    },
+    {
+      "codigo": "D",
+      "referencia": "633378",
+      "descripcion": "Vestido semiajustado. Jersey poliéster spandex, tacto suave.",
+      "color": "Negro",
+      "tallas": [
+        {
+          "talla": "S",
+          "codigo": "720777"
+        },
+        {
+          "talla": "M",
+          "codigo": "720778"
+        },
+        {
+          "talla": "L",
+          "codigo": "720779"
+        },
+        {
+          "talla": "XL",
+          "codigo": "720780"
+        },
+        {
+          "talla": "XXL",
+          "codigo": "720781"
+        }
+      ]
+    }
+  ]
+}
